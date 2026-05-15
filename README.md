@@ -27,7 +27,7 @@ The library uses conditional compilation to interface with the underlying Operat
 ## 💻 Usage
 
 ```c
-#include "includetimer.h"
+#include "include/timer.h"
 #include <stdio.h>
 
 int main()
