@@ -43,3 +43,6 @@ int main()
 ```
 ## 📜 License
 This project is protected under the GNU GPL v3.0 and belongs to **hypernova-developer**.
+
+## Completed
+**libtimer-dev** project is completed. 18/05/2026 23:13
